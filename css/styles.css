@@ -198,6 +198,15 @@ body {
 .benefits-list-item:not(:last-child) {
 	margin-right: 24px;
 }
+.benefits-thumb {
+	width: 264px;
+	height: 112px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 8px;
+	background-color: var(--secondary-page-color);
+}
 
 .benefits-subtitle {
 	font-weight: 500;
